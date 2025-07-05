@@ -22,5 +22,4 @@ A Streamlit-based AI app that takes a research paper (PDF or DOCX), extracts sec
 1. **Clone this repo or download the files**:
 
 ```bash
-git clone https://github.com/yourusername/research-summarizer.git
-cd research-summarizer
+git clone https://github.com/Rajkishor01/Summerizer.git
