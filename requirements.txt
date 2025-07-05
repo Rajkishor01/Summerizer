@@ -1,0 +1,8 @@
+streamlit>=1.25
+transformers>=4.30
+torch>=2.0
+pandas>=1.5
+pymupdf>=1.22.3
+python-docx>=0.8.11
+reportlab>=4.0.7
+pypandoc>=1.11
